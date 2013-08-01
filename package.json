@@ -1,0 +1,20 @@
+{
+  "name": "grid",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chopper-UI/grid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chopper-UI/grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chopper-UI/grid/issues"
+  },
+  "family": "chopper",
+  "spm": {
+    "alias": {},
+    "output": [
+      "grid.css"
+    ]
+  }
+}
