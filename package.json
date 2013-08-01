@@ -1,6 +1,6 @@
 {
   "name": "grid",
-  "description": "",
+  "description": "布局样式",
   "version": "1.0.0",
   "homepage": "https://github.com/chopper-UI/grid",
   "repository": {
@@ -14,7 +14,8 @@
   "spm": {
     "alias": {},
     "output": [
-      "grid.css"
+      "grid.css",
+      "responsive.css"
     ]
   }
 }
